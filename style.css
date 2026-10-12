@@ -1,0 +1,68 @@
+head {
+  background-color: lightblue;
+  font-family: "Times New Roman", Times, serif;
+  font-size: "small";
+  margin-bottom: 30px;
+}
+
+body {
+  background-color: lightblue;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 20px;
+}
+
+img {
+  border-radius: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  width: 20%;
+  margin-bottom: 60px;
+}
+
+p { 
+  text-align: left;
+  color: grey;
+}
+
+a:link {
+  color: blue;
+  font-weight: bold;
+  text-decoration: none;
+}
+  
+a:visited {
+  color: blue;
+}
+
+section {
+  background-color: white;
+  padding: 50px;
+  margin: 5px auto;
+  border: 2px solid black;
+  border-radius: 40px;
+  max-width: 900px;
+  text-align: center;
+  margin-top: 60px;
+}
+
+ul {
+  color: grey;
+}
+
+div {
+  background-color: white;
+  color: black;
+  padding: 5px;
+  text-align: center;
+  cursor: blue;
+  border: 2px solid black;
+  border-radius: 40px;
+  margin-bottom: 60px;
+  margin-top:60px;
+}
+
+
+
+  
